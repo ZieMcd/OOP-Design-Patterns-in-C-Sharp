@@ -1,4 +1,4 @@
-﻿#OOP Design Patterns in C#
+# OOP Design Patterns in C#
 This repo contains examples projects for design patterns. Some projects will also have diagrams which I will put in this readme.
 
 ## Factory Method
