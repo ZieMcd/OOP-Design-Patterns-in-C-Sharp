@@ -7,6 +7,6 @@ public class AustraliaTaxCalculatorCreator : TaxCalculatorCreator
 {
     public override TaxCalculator CreateTaxCalculator()
     {
-        return new AustraliaTaxCalculator();
+        return new AustralianTaxCalculator();
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace FactoryMethod.TargetObjects.ConcretesTargets;
 
-public class AustraliaTaxCalculator : TaxCalculator
+public class AustralianTaxCalculator : TaxCalculator
 {
    
     public override double CalculateVat(double itemPrice)
