@@ -15,3 +15,7 @@ I used calculating tax as example scenario to implement Factory method.
 Abstract Factory is like the Factory Method tho the Factory can create more than one different type of object
 
 ![Alt text](Diagrams/AbstractFactory%20.png?raw=true "AbstractFactory")
+
+The Builder design pattern separates the construction of a complex object from its representation so that the same construction process can create different representations.
+
+![Alt text](Diagrams/Builder.png?raw=true "Builder")
