@@ -16,6 +16,10 @@ Abstract Factory is like the Factory Method tho the Factory can create more than
 
 ![Alt text](Diagrams/AbstractFactory%20.png?raw=true "AbstractFactory")
 
+## Builder
 The Builder design pattern separates the construction of a complex object from its representation so that the same construction process can create different representations.
 
 ![Alt text](Diagrams/Builder.png?raw=true "Builder")
+
+## Adaptor
+![Alt text](Diagrams/AdapterDesignPattern.drawio.png?raw=true "Builder")
