@@ -32,3 +32,7 @@ The Builder design pattern separates the construction of a complex object from i
 ## Composite
 Composite pattern can be used to make tree like structures. As example we will create a folder structures
 ![Alt text](Diagrams/Composite.png?raw=true "Builder")
+
+## Flyweight
+A way of creating alot objects with using to much memory 
+![Alt text](Diagrams/Flyweight.drawio.png?raw=true "Flyweight")
