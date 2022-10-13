@@ -36,3 +36,7 @@ Composite pattern can be used to make tree like structures. As example we will c
 ## Flyweight
 A way of creating alot objects with using to much memory 
 ![Alt text](Diagrams/Flyweight.drawio.png?raw=true "Flyweight")
+
+## Proxy 
+Store objects in memory
+![Alt text](Diagrams/Proxy.drawio.png?raw=true "Proxy")
