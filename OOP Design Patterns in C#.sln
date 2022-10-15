@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Structural Des
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Structural Design Patterns\Proxy\Proxy.csproj", "{D5892CA8-0762-4A24-A9AF-BC90D3896949}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral Design Patterns", "Behavioral Design Patterns", "{58AE2CA7-CAEB-44F3-9A18-7B637CA64419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain of Responsibility", "Behavioral Design Patterns\Chain of Responsibility\Chain of Responsibility.csproj", "{BDC63265-17FC-44AA-9C74-8A1B576DEC73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -64,6 +68,10 @@ Global
 		{D5892CA8-0762-4A24-A9AF-BC90D3896949}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5892CA8-0762-4A24-A9AF-BC90D3896949}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5892CA8-0762-4A24-A9AF-BC90D3896949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC63265-17FC-44AA-9C74-8A1B576DEC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC63265-17FC-44AA-9C74-8A1B576DEC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC63265-17FC-44AA-9C74-8A1B576DEC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC63265-17FC-44AA-9C74-8A1B576DEC73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7CF0EA20-525B-41F1-9C84-F6A06ABBF41F} = {66FF7103-4086-4EAF-A059-D25230080F04}
@@ -74,5 +82,6 @@ Global
 		{1C3711E1-405B-4D57-A136-8F0104DF7054} = {AC4BFAED-5D0B-4F5E-AD53-07A8EC2AA2BD}
 		{2475C433-86C6-475A-83AC-24C00D074F11} = {AC4BFAED-5D0B-4F5E-AD53-07A8EC2AA2BD}
 		{D5892CA8-0762-4A24-A9AF-BC90D3896949} = {AC4BFAED-5D0B-4F5E-AD53-07A8EC2AA2BD}
+		{BDC63265-17FC-44AA-9C74-8A1B576DEC73} = {58AE2CA7-CAEB-44F3-9A18-7B637CA64419}
 	EndGlobalSection
 EndGlobal
