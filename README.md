@@ -3,7 +3,7 @@ This repo contains examples projects for design patterns. Some projects will als
 
 ### note
 The scenarios are very simple, They should NOT be used to decide when to use a certain design pattern. Their only purpose is to demonstrate the design pattern.
-Also this repo does not contain all design patterns, only ones that I don't know very well and want to leant more about. 
+Also this repo does not contain all design patterns, only ones that I don't know very well and want to learn more about. 
 
 # Creational design patterns
 
